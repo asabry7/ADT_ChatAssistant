@@ -19,7 +19,7 @@ The system consists of:
 ---
 
 ## 🔍 Illustration video:
-Tested on **Ubuntu24.04 Machine**:
+Tested on **Native Ubuntu24.04 Machine**:
 
 ![alt text](images/ADT.gif)
 
