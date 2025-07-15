@@ -1,5 +1,5 @@
 
-# 📊 ADT Assistant: MOSFET Data Plotter
+# 📊 Sizing Assistant Chatbot
 
 ---
 
@@ -7,7 +7,7 @@
 
 This project is an interactive assistant designed to help analog designers visualize and analyze **MOSFET data from lookup tabels** using natural language queries.
 
-It is inspired by the **Analog Design Toolkit (ADT)** developed by **MasterMicro**, and is intended to be a helper chat application for analog circuit designers.
+It is inspired by the **Analog Designer's Toolbox (ADT)** developed by **MasterMicro**, and is intended to be a helper chat application for analog circuit designers.
 
 The system consists of:
 - A synthetic data generator for generating testing data.
