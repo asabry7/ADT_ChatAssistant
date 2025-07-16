@@ -47,7 +47,7 @@ Tested on **Native Ubuntu24.04 Machine**:
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/mosfet-data-plotter.git
+git clone https://github.com/asabry7/ADT_ChatAssistant.git
 cd mosfet-data-plotter
 ```
 
